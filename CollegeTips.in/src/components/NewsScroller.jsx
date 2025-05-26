@@ -60,7 +60,7 @@ const NewsScroller = () => {
     <section className="relative py-16 bg-gradient-to-r from-[#1A1A1A] to-[#0A0A0A] overflow-hidden">
       <div className="container mx-auto px-4 text-center mb-12">
         <h2 className="text-4xl md:text-5xl font-playfair-display font-bold text-gold-300 drop-shadow-md">
-          WE ARE <span className="text-lime-400">QUITE POPULAR!!</span>
+          WE ARE <span className="text-red-400">QUITE POPULAR!!</span>
         </h2>
         <p className="text-lg md:text-xl font-lora text-white opacity-80 mt-4">
           That's why. We are always in News.
