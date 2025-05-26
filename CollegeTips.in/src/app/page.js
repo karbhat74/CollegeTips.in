@@ -184,10 +184,10 @@ const App = () => {
           <div className="absolute inset-0 bg-cover bg-center opacity-30" style={{ backgroundImage: "url('/img1.jpg')" }}></div>
           <div className="relative z-10">
             <h1 className="hero-title text-5xl md:text-7xl font-playfair-display font-bold text-gold-400 drop-shadow-lg mb-4">
-              The Golden Archive
+              CollegeTips.in
             </h1>
             <p className="hero-subtitle text-xl md:text-2xl font-lora text-white opacity-80 max-w-2xl mx-auto">
-              A Collegiate Odyssey: Unveiling Moments of Triumph & Inspiration
+              Explore Here
             </p>
           </div>
         </header>
